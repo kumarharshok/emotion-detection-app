@@ -46,10 +46,8 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## 🌍 Deploying on Streamlit Cloud
-1️⃣ Push your project to **GitHub**.  
-2️⃣ Go to [Streamlit Cloud](https://share.streamlit.io/) and log in.  
-3️⃣ Click **New App**, select your repository, and deploy!  
+## 🌍 Live Demo
+🔗 **Check out the live app:** [Emotion Detection App](https://emotion-detection-app-exuobbcplpbufwrtmrbqzm.streamlit.app/)
 
 ## 📊 Example Predictions
 | Input Text | Predicted Emotion |
